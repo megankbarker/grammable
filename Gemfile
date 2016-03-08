@@ -62,3 +62,8 @@ gem 'sprockets'
 
 # simple form
 gem 'simple_form'
+
+# Devise for user authentication
+gem 'devise', '>= 3.2.4'
+
+
