@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Speed up page load times and see errors in Heroku logs
+gem 'rails_12factor', group: :production
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
