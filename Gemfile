@@ -59,3 +59,6 @@ gem 'sass-rails', '>= 3.2'
 
 #sprockets
 gem 'sprockets'
+
+# simple form
+gem 'simple_form'
